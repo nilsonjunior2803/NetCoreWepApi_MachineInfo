@@ -1,0 +1,14 @@
+C:\Development\Labs\Nginx\MachineInfoAPI\MachineInfoAPI\MachineInfo.API\obj\Debug\netcoreapp2.1\MachineInfo.API.csproj.CoreCompileInputs.cache
+C:\Development\Labs\Nginx\MachineInfoAPI\MachineInfoAPI\MachineInfo.API\obj\Debug\netcoreapp2.1\MachineInfo.API.AssemblyInfoInputs.cache
+C:\Development\Labs\Nginx\MachineInfoAPI\MachineInfoAPI\MachineInfo.API\obj\Debug\netcoreapp2.1\MachineInfo.API.AssemblyInfo.cs
+C:\Development\Labs\Nginx\MachineInfoAPI\MachineInfoAPI\MachineInfo.API\bin\Debug\netcoreapp2.1\MachineInfo.API.deps.json
+C:\Development\Labs\Nginx\MachineInfoAPI\MachineInfoAPI\MachineInfo.API\bin\Debug\netcoreapp2.1\MachineInfo.API.runtimeconfig.json
+C:\Development\Labs\Nginx\MachineInfoAPI\MachineInfoAPI\MachineInfo.API\bin\Debug\netcoreapp2.1\MachineInfo.API.runtimeconfig.dev.json
+C:\Development\Labs\Nginx\MachineInfoAPI\MachineInfoAPI\MachineInfo.API\bin\Debug\netcoreapp2.1\MachineInfo.API.dll
+C:\Development\Labs\Nginx\MachineInfoAPI\MachineInfoAPI\MachineInfo.API\bin\Debug\netcoreapp2.1\MachineInfo.API.pdb
+C:\Development\Labs\Nginx\MachineInfoAPI\MachineInfoAPI\MachineInfo.API\obj\Debug\netcoreapp2.1\MachineInfo.API.RazorAssemblyInfo.cache
+C:\Development\Labs\Nginx\MachineInfoAPI\MachineInfoAPI\MachineInfo.API\obj\Debug\netcoreapp2.1\MachineInfo.API.RazorAssemblyInfo.cs
+C:\Development\Labs\Nginx\MachineInfoAPI\MachineInfoAPI\MachineInfo.API\obj\Debug\netcoreapp2.1\MachineInfo.API.RazorTargetAssemblyInfo.cache
+C:\Development\Labs\Nginx\MachineInfoAPI\MachineInfoAPI\MachineInfo.API\obj\Debug\netcoreapp2.1\MachineInfo.API.dll
+C:\Development\Labs\Nginx\MachineInfoAPI\MachineInfoAPI\MachineInfo.API\obj\Debug\netcoreapp2.1\MachineInfo.API.pdb
+C:\Development\Labs\Nginx\MachineInfoAPI\MachineInfoAPI\MachineInfo.API\obj\Debug\netcoreapp2.1\MachineInfo.API.csprojAssemblyReference.cache
