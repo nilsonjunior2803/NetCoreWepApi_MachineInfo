@@ -18,7 +18,7 @@ namespace MachineInfo.API.Controllers
             HttpContext.Response.Headers.Add("MachineName", machineName);
             HttpContext.Response.Headers.Add("hostAddress", hostAddress);
 
-            return $"Azure Machine name: {machineName} - Host Address: {hostAddress} ";
+            return $"Deployed on Azure - Machine name: {machineName} - Host Address: {hostAddress} ";
         }
     }
 }
